@@ -158,3 +158,36 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+jogo_da_cobrinha/virtual/Include/site/python3.11/pygame/_blit_info.h
+jogo_da_cobrinha/virtual/Include/site/python3.11/pygame/_camera.h
+jogo_da_cobrinha/virtual/Include/site/python3.11/pygame/_pygame.h
+jogo_da_cobrinha/virtual/Include/site/python3.11/pygame/_surface.h
+jogo_da_cobrinha/virtual/Include/site/python3.11/pygame/camera.h
+jogo_da_cobrinha/virtual/Include/site/python3.11/pygame/font.h
+jogo_da_cobrinha/virtual/Include/site/python3.11/pygame/freetype.h
+jogo_da_cobrinha/virtual/Include/site/python3.11/pygame/include/_pygame.h
+jogo_da_cobrinha/virtual/Include/site/python3.11/pygame/include/bitmask.h
+jogo_da_cobrinha/virtual/Include/site/python3.11/pygame/include/pgcompat.h
+jogo_da_cobrinha/virtual/Include/site/python3.11/pygame/include/pgimport.h
+jogo_da_cobrinha/virtual/Scripts/pythonw.exe
+jogo_da_cobrinha/virtual/Scripts/python.exe
+jogo_da_cobrinha/virtual/Scripts/pyside6-uic.exe
+jogo_da_cobrinha/virtual/Scripts/pyside6-svgtoqml.exe
+jogo_da_cobrinha/virtual/Scripts/pyside6-rcc.exe
+jogo_da_cobrinha/virtual/Scripts/pyside6-qtpy2cpp.exe
+jogo_da_cobrinha/virtual/Scripts/pyside6-qsb.exe
+jogo_da_cobrinha/virtual/Scripts/pyside6-qmltyperegistrar.exe
+jogo_da_cobrinha/virtual/Scripts/pyside6-qmlls.exe
+jogo_da_cobrinha/virtual/Scripts/pyside6-qmllint.exe
+jogo_da_cobrinha/virtual/Scripts/pyside6-qmlimportscanner.exe
+jogo_da_cobrinha/virtual/Scripts/pyside6-qmlformat.exe
+jogo_da_cobrinha/virtual/Scripts/pyside6-qmlcachegen.exe
+jogo_da_cobrinha/virtual/Scripts/pyside6-qml.exe
+jogo_da_cobrinha/virtual/Scripts/pyside6-project.exe
+jogo_da_cobrinha/virtual/Scripts/pyside6-metaobjectdump.exe
+jogo_da_cobrinha/virtual/Scripts/pyside6-lupdate.exe
+jogo_da_cobrinha/virtual/Scripts/pyside6-lrelease.exe
+jogo_da_cobrinha/virtual/Scripts/pyside6-linguist.exe
+jogo_da_cobrinha/virtual/Scripts/pyside6-genpyi.exe
+jogo_da_cobrinha/virtual/Scripts/pyside6-designer.exe
+jogo_da_cobrinha/virtual/Scripts/pyside6-deploy.exe
