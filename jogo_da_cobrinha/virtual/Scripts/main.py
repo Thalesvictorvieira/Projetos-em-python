@@ -1,4 +1,4 @@
-from PySide6.QtWidgets import QApplication, QPushButton
+
 import pygame
 from pygame.locals import *
 import sys
@@ -21,9 +21,9 @@ class jogador:
         self.player_largura = player_largura
         self.player_altura = player_altura
 
-localmusica = "C:\\Users\\teste\\Documents\\Programação\\python-projets\\jogo_da_cobrinha\\virtual\\Scripts\\jogo_da_cobrinha\\sons\doom.mp3"
+localmusica = "C:\\Users\\teste\\Documents\\Desinvilvimento\\Projetos-em-python\\jogo_da_cobrinha\\virtual\\Scripts\\sons\\doom.mp3"
 musica_de_fundo = pygame.mixer.music.load(localmusica)
-pygame.mixer.music.play(-1)
+pygame.mixer.music.play(-1) 
 
 
 jogador1 = jogador( 0,0,(255,0,0),40,40)
@@ -59,10 +59,9 @@ while running :
         valor_aleatorio1=randint(1,720)
         valor_aleatorio2=randint(1,480)
         return valor_aleatorio1 & valor_aleatorio2
-
-          
+    
     if Frutinha.colliderect(Jogado1):
-        frutinha.player_x =pega_aleatorio()
+        frutinha.player_x = pega_aleatorio()
         frutinha.player_y = pega_aleatorio()
         pontuacao += 1
        
