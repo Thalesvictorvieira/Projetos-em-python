@@ -1,6 +1,8 @@
-class Produto:
-    def __init__(self,nome,validade=None) -> None:
-        self.nome = nome
-        self.validade = validade
+import datetime
 
-Função = int(input(""))
+class Product :
+    def __init__(self, name, validity=None,price) -> None:
+        self.nome = name
+        self.validity = validity
+        self.price = price
+
