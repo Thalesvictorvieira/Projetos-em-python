@@ -4,7 +4,7 @@ import string
 
 a = list(string.ascii_lowercase)
 
-key_word = "thales"
+key_word = "TESTE"
 key_word.lower()
 tamanho = len(key_word)
 letras_possiveis = a
