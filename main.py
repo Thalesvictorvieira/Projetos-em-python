@@ -1,3 +1,1 @@
-import pyside6
-
-print("Olá mundo")
+print("Olá mundo ")
